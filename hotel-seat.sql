@@ -88,7 +88,7 @@ VALUES
 	(1,1,'Angel i Stoyan','2020-6-9','2020-7-9',1,1,2500)
 	
 
-	--Tovo e upr na gospojata ,samo CSKA
+	--Tovo e upr na gospojata , CSKA < minyor elshitsa
 
 
 
