@@ -89,6 +89,6 @@ VALUES
 	
 
 	--Tovo e upr na gospojata , CSKA < minyor elshitsa
-
+	--Mitio okoto beshe tuk
 
 
